@@ -20,7 +20,6 @@ on:
       icon:
         description: '[Icon, Optional]'
         required: false
-        default: '../../src-tauri/icons/favicon.ico'
       width:
         description: '[Width, Optional]'
         required: false
